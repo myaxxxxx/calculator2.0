@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_exchange_math">ExchangeMath</string>
+    <string name="title_home">进制转换</string>
+    <string name="title_dashboard">单位换算</string>
+    <string name="title_notifications">返回</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
